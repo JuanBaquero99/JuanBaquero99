@@ -9,3 +9,6 @@
 JuanBaquero99/JuanBaquero99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Mi perfil es un laboratorio de distintos lenguajes y aprendizajez en tecnología. Así como puede tener proyectos personales o profesionales, tambien hay lienzos de código experimentando la función de cada línea. Prácticar, prácticar y prácticar. 
+
+Bienvenido ¿Café o té?
