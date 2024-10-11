@@ -42,7 +42,7 @@ Aquí encontrarás desde aplicaciones inteligentes hasta videojuegos.
 
 ## 🎯 Lo que sigue para mí
 
-Mi objetivo es profundizar y especializarme en **Inteligencia Artificial**, explorando más a fondo **NLP**, **Deep Learning**, y **Sistemas de Aprendizaje Automático**. Estoy desarrollando propuestas para **ConciencIA Digital**, con la visión de crear observatorios de IA que impacten a comunidades.
+Mi objetivo es profundizar y especializarme en **Inteligencia Artificial**, explorando más a fondo **NLP**, **Deep Learning**, y **Sistemas de Aprendizaje Automático**. Bueno, a donde me lleve el código!
 
 ---
 
