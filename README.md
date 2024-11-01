@@ -13,7 +13,7 @@ Desarrollador **FullStack** 🧑‍💻 con un hambre insaciable por aprender, c
   - **Bases de Datos**: **MySQL** 🗄️ y **PostgreSQL** 🐘 para manejar datos como un pro.
   - **Linux** 🐧 fan de la terminal y la libertad del código abierto.
 
-- 🎓 **En constante evolución**: Mejorando en **Ciberseguridad**, **Cloud Computing**, **DevOps** y siguiendo una especialización en **Project Management** para llevar mis ideas a la realidad de manera ágil.
+- 🎓 **En constante evolución**: Mejorando en **Ciberseguridad**, **Cloud Computing**, **DevOps** e **Inteligencia Artificial**
 
 - 🧑‍🏫 **Mentor** ocasional: Enseño a jóvenes de entre 11-17 años el arte de programar videojuegos en **Python**. ¡Crear jugando!
 
