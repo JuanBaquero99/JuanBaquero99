@@ -15,7 +15,6 @@ Desarrollador **FullStack** 🧑‍💻 con un hambre insaciable por aprender, c
 
 - 🎓 **En constante evolución**: Mejorando en **Ciberseguridad**, **Cloud Computing**, **DevOps** e **Inteligencia Artificial**
 
-- 🧑‍🏫 **Mentor** ocasional: Enseño a jóvenes de entre 11-17 años el arte de programar videojuegos en **Python**. ¡Crear jugando!
 
 - 🧠 **Inteligencia Artificial Lover**: Profundizando en áreas como:
   - **Natural Language Processing (NLP)** 🗣️
