@@ -32,11 +32,6 @@ Desarrollador **FullStack** 🧑‍💻 con un hambre insaciable por aprender, c
 
 ---
 
-## 🌟 Proyectos en marcha
-
-Explora mis creaciones en mi [Portafolio Personal](https://myspacejuan.netlify.app/) o en mis repositorios de GitHub. ¡Me encantaría recibir tu feedback!  
-Aquí encontrarás desde aplicaciones inteligentes hasta videojuegos.
-
 ---
 
 ## 🎯 Lo que sigue para mí
