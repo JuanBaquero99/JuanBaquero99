@@ -28,7 +28,7 @@ Desarrollador **FullStack** 🧑‍💻 con un hambre insaciable por aprender, c
 
 - 🏆 **Ganador** del reto **OSS (Open Source Software)** por mis contribuciones a **FoodMe**, reconocido por **GitHub Education**, **Platzi**, y **New Relic**. ¡Orgulloso de ser parte de la comunidad global de código abierto!
 
-- 💼 Actualmente, desarrollo software como **FullStack Dev en CrecemosLab** usando **JavaScript** y las tecnologías más punteras.
+- 💼 Actualmente, desarrollo software como **FullStack Dev en CrecemosLab** usando **JavaScript**
 
 ---
 
